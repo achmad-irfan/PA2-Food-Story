@@ -8,9 +8,20 @@
 <p>In this project, it used 4 csv files, customer data, sales report branch, sales report menu, and sales report customer, each file is data from 2022 to 2023 and must imported to microsoft power BI</p>
 <h3>Dashboard result:</h3>
 <h4>Page Customer Data:</h4>
-&nbsp; <a href="https://www.linkedin.com/in/achmad-irfan-afandi-9661131a6//" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>  
+<p align="center"> 
+<img src="fsp1.png" class="img-fluid" alt="">  
+</p>
 <h4>Page Sales Report Branch:</h4>
+<p align="center"> 
+<img src="fsp2.png" class="img-fluid" alt="">  
+</p>
 <h4>Page Sales Report Menu:</h4>
+<p align="center"> 
+<img src="fsp3.png" class="img-fluid" alt="">  
+</p>
 <h4>Page Sales Report Customer:</h4>
+<p align="center"> 
+<img src="fsp4.png" class="img-fluid" alt="">  
+</p>
 
 
